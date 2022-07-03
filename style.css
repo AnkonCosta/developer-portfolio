@@ -41,3 +41,12 @@ section {
     padding-top: 40px;
 
 }
+
+.second-section {
+    background-image: url(images/dream-bg.png);
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    padding-top: 40px;
+    background-position: right;
+
+}
